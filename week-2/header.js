@@ -2,8 +2,8 @@
 ============================================
 ; Title:  header.js
 ; Author: Professor Krasso 
-; Date:   25 June 2017
-; Modified By: <Your name>
+; Date:   04 December, 2018
+; Modified By: Drew Hanson
 ; Description: Displays a formatted header
 ;===========================================
 */
